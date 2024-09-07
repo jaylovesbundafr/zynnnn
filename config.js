@@ -1,7 +1,7 @@
 global.namaown = "Zʏɴxᴢᴏ" // JANGAN DI UBAH
 global.namabot = "Zʏɴxᴢᴏ" // JANGAN DI UBAH
 global.versisc = "8.0" // JANGAN DI UBAH
-global.owner = ["2347089532266"] // MASUKIN NO LU
+global.owner = ["2347017055600"] // MASUKIN NO LU
 global.tele = "https://t.me/Zynxzooo" // JANGAN DI UBAH
 global.url = "https://www.youtube.com/@zynxzoo" // JANGAN DI UBAH
 global.namastore = "Zʏɴxᴢᴏ" // UBAH NAMA STORE LU
